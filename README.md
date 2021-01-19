@@ -18,7 +18,7 @@ Différentes instructions existent :
 - while : On execute le bloc de code tant que la condition est vrai
 
 ````php
-while(condition) {
+//while(condition) {
     //code à executer
 }
 ````
